@@ -1,2 +1,3 @@
-# learningproj3
-mysql
+地址  
+192.168.1.20  
+
